@@ -1,4 +1,6 @@
-EX-21-POINTERS
+# NAME : SHREYESHKAR SEKAR
+# REGISTER NUMBER : 212224220099
+# EX-21-POINTERS
 # AIM:
 Write a C program to convert a 23.65 into 25 using pointer
 
